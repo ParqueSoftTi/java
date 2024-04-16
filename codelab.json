@@ -1,0 +1,23 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-04-16T08:44:04-05:00",
+  "id": "java-markdown",
+  "duration": 0,
+  "title": "Java",
+  "summary": "Curso de Java",
+  "source": ".\\java1.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "java"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "java-markdown"
+}
